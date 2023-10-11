@@ -12,7 +12,6 @@ const Tempapp = () => {
                 }}
                 />
             </div>
-            </div>
 
             <div className="info">
                 <h2 className="location">
@@ -27,7 +26,7 @@ const Tempapp = () => {
             <div className="wave -one"></div>
             <div className="wave -two"></div>
             <div className="wave -three"></div>
-        
+        </div>
         </>
     )
 
